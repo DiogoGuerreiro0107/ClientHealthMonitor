@@ -1,13 +1,14 @@
 # Architecture Overview
 
-# Table of contents
-1. [Purpose](#purpose)
-2. [Objetives](#objetives)
-3. [Main components](#main-components)
-4. [System flow](#system-flow)
-5. [MVP functions](#mvp-functions)
-6. [Future improvements](#future-improvements)
-7. [Architecture diagram](#architecture-diagram)
+## Table of contents
+
+- [Purpose](#purpose)
+- [Objetives](#objetives)
+- [Main components](#main-components)
+- [System flow](#system-flow)
+- [MVP functions](#mvp-functions)
+- [Future improvements](#future-improvements)
+- [Architecture diagram](#architecture-diagram)
 
 ## Purpose
 

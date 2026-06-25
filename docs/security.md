@@ -1,5 +1,15 @@
 # Security Considerations
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Main Principles](#main-principles)
+- [Dashboard Authentication](#dashboard-authentication)
+- [Agent Security](#agent-security)
+- [Data Collected by the Agent](#data-collected-by-the-agent)
+- [Remote Actions](#remote-actions)
+- [Secrets Management](#secrets-management)
+
 ## Purpose
 
 This document describes the main security principles and decisions for this software.

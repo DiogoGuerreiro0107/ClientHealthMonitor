@@ -1,5 +1,23 @@
 # API Design
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [API Consumers](#api-consumers)
+- [Authentication Types](#authentication-types)
+  - [Dashboard User Authentication](#dashboard-user-authentication)
+  - [Agent Authentication](#agent-authentication)
+- [Initial Endpoint Groups](#initial-endpoint-groups)
+  - [Authentication](#authentication)
+  - [Clients](#clients)
+  - [Locations](#locations)
+  - [Machines](#machines)
+  - [Agents](#agents)
+  - [Monitoring](#monitoring)
+  - [Alerts](#alerts)
+- [Standard Response Format](#standard-response-format)
+  - [Error Response](#error-response)
+
 ## Purpose
 
 The API provides the endpoints to communicate with the server and get the information needed.

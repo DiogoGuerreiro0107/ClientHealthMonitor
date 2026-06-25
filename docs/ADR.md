@@ -1,5 +1,18 @@
 # ADR - Architecture Decision Record
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Use Django REST Framework](#use-django-rest-framework)
+  - [Context](#context)
+  - [Decision](#decision)
+  - [Consequences](#consequences)
+  - [Alternatives Considered](#alternatives-considered)
+- [Use Agent Push Model](#use-agent-push-model)
+  - [Context](#context-1)
+  - [Decision](#decision-1)
+  - [Consequences](#consequences-1)
+
 ## Purpose
 
 This document describes the main architecture decisions taken and the reason for those choices.

@@ -1,5 +1,42 @@
 # Database Schema
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Naming Conventions](#naming-conventions)
+- [Common Field Types](#common-field-types)
+- [Main Entities](#main-entities)
+  - [`user`](#user)
+    - [Columns](#columns)
+    - [Relationships](#relationships)
+  - [`user_role`](#user_role)
+    - [Columns](#columns-1)
+  - [`client`](#client)
+    - [Columns](#columns-2)
+  - [`location`](#location)
+    - [Columns](#columns-3)
+    - [Relationships](#relationships-1)
+  - [`machine`](#machine)
+    - [Columns](#columns-4)
+    - [Relationships](#relationships-2)
+  - [`machine_status`](#machine_status)
+    - [Columns](#columns-5)
+  - [`agent`](#agent)
+    - [Columns](#columns-6)
+    - [Relationships](#relationships-3)
+  - [`health_snapshot`](#health_snapshot)
+    - [Columns](#columns-7)
+    - [Relationships](#relationships-4)
+  - [`alert`](#alert)
+    - [Columns](#columns-8)
+    - [Relationships](#relationships-5)
+  - [`alert_severity`](#alert_severity)
+    - [Columns](#columns-9)
+  - [`alert_status`](#alert_status)
+    - [Columns](#columns-10)
+- [Foreign Keys](#foreign-keys)
+- [Entity Relationships](#entity-relationships)
+
 ## Purpose
 
 This document describes the initial database schema used by the application.

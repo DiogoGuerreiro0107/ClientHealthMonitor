@@ -1,5 +1,11 @@
 # Agent Design
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Main Responsibilities](#main-responsibilities)
+- [Agent Communication Model](#agent-communication-model)
+
 ## Purpose
 
 The agent is a small monitoring client installed on the bussiness client machine and it is responsible for colleting system health data.
