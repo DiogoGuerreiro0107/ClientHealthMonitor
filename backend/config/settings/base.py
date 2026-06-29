@@ -38,6 +38,15 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "apps.accounts.apps.AccountsConfig",
+    "apps.agents.apps.AgentsConfig",
+    "apps.alerts.apps.AlertsConfig",
+    "apps.audit.apps.AuditConfig",
+    "apps.automation.apps.AutomationConfig",
+    "apps.clients.apps.ClientsConfig",
+    "apps.dashboard.apps.DashboardConfig",
+    "apps.machines.apps.MachinesConfig",
+    "apps.monitoring.apps.MonitoringConfig",
 
     # Third-party apps
     "rest_framework",
